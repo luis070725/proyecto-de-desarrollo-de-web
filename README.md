@@ -1,5 +1,5 @@
 primer pagina web
-  </style>
+
 </head>
 <body>
   <nav>
