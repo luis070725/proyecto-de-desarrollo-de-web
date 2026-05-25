@@ -1,8 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
+
   <title>Mascotas Rescatadas</title>
-  <style>
+
     * { margin: 0; padding: 0; }
     body { font-family: 'Segoe UI', Arial; }
     .slide { 
@@ -29,7 +27,7 @@
     h2 { font-size: 2.5em; margin-bottom: 20px; text-shadow: 2px 2px 8px rgba(0,0,0,0.8); }
     p { font-size: 1.3em; max-width: 700px; line-height: 1.7; text-shadow: 1px 1px 6px rgba(0,0,0,0.8); }
     
-    .slide1::before { background-image: url('URL_DE_TU_FOTO_1'); }
+    .slide1::before { background-image:(https://mascoterias.com/blog/todo-lo-que-necesitas-saber-para-criar-a-un-cachorro/); }
     .slide2::before { background-image: url('URL_DE_TU_FOTO_2'); }
     .slide3::before { background-image: url('URL_DE_TU_FOTO_3'); }
     .slide4::before { background-image: url('URL_DE_TU_FOTO_4'); }
